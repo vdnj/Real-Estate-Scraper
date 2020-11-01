@@ -1,0 +1,2 @@
+SeLoger.com :
+    - méthode Cheerio impossible car le changement de page avec query string ne fonctionne pas. Méthode utilisée : puppeteer
