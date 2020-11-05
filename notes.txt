@@ -1,2 +1,3 @@
 SeLoger.com :
     - méthode Cheerio impossible car le changement de page avec query string ne fonctionne pas. Méthode utilisée : puppeteer
+    - scraper seulement la dernière page (approx 25 annonces)
